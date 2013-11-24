@@ -13,7 +13,7 @@
 # Find the difference between the sum of the squares of the first one hundred
 # natural numbers and the square of the sum.
 
-sqr_sum = 0 # sum of the squares of the first 100 real numbers
+sqr_sum = 0
 sum = 0
 
 range = [1..100]
